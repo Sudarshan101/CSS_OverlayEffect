@@ -3,7 +3,7 @@ Overlay Effect on the image using CSS and data attribute
 
 # overlay.html
 <pre>
-	<code>
+	<code class="html">
 	  <h1>Overlay Effect on the image using CSS and data attribute</h1>
 		<div class="section" data-overlay="black" data-opacity="65">
 			<div class="content">
