@@ -4,14 +4,14 @@ Overlay Effect on the image using CSS and data attribute
 # overlay.html
 <pre>
 	<code class="html">
-	  <h1>Overlay Effect on the image using CSS and data attribute</h1>
+	  <h1>Overlay Effect on the image using CSS and data attribute<&sol;h1>
 		<div class="section" data-overlay="black" data-opacity="65">
 			<div class="content">
-				<h3>Content Title</h3>
-				<h5>Content Sub Title</h5>
-				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-			</div>
-		</div>
+				<h3>Content Title<&sol;h3>
+				<h5>Content Sub Title<&sol;h5>
+				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.<&sol;p>
+			<&sol;div>
+		<&sol;div>
 	</code>
 </pre>
 
