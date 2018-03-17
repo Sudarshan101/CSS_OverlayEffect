@@ -2,7 +2,7 @@
 Overlay Effect on the image using CSS and data attribute
 
 # overlay.html
-<code><pre>
+<pre><code>
   <h1>Overlay Effect on the image using CSS and data attribute</h1>
 		<div class="section" data-overlay="black" data-opacity="65">
 			<div class="content">
@@ -11,7 +11,7 @@ Overlay Effect on the image using CSS and data attribute
 				<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
 			</div>
 		</div>
-</pre></code>
+</code></pre>
 
 # style.css
 <pre>
